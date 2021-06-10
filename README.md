@@ -1,7 +1,7 @@
 ### Here is What Im doing Right Now 👋
 
 - 🏫 I’m currently a student of ... TUP Manila
-- 💻 I’m currently working on ... Rigth Valley as A Software Developer. 
+- 💻 I’m worked on ... Rigth Valley as A Software Developer. 
 - 🌱 I’m currently learning ... React Framework, JS, C#, Godot and C++
 - 👯 I’m looking to collaborate on ... some of my repo <3
 - 🤔 I’m looking for help with ... software engineering <3
