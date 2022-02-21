@@ -2,7 +2,7 @@
 
 - 🏫 I’m currently a student of ... TUP Manila
 - 💻 I'm a freelance developer. 
-- 🌱 I’m currently learning ... Flutter, Angular, React Framework, DJango, JS, C#, Godot and C++
+- 🌱 I’m currently learning ... Codeigniter, Flutter, Angular, React Framework, DJango, JS, PHP, C#, Godot and C++
 - 👯 I’m looking to collaborate on ... some of my repo <3
 - 🤔 I’m looking for help with ... software engineering <3
 - 💬 Ask me about ... animes
