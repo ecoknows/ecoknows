@@ -33,7 +33,7 @@
 <table>
   <tr>
     <td valign="top">
-     <img width="400" alt='Cold' src="https://i.pinimg.com/originals/de/eb/72/deeb72f330d622fcf337bc0967e9e54f.gif">
+     <img width="400" alt='Cold' src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif">
     </td>
     <td valign="top">
    
