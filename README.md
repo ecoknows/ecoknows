@@ -33,7 +33,7 @@
 <table>
   <tr>
     <td valign="top">
-     <img width="400" alt='Cold' src="https://i.pinimg.com/originals/27/2e/3e/272e3e55dc180dc021af0a54ee70143f.gif">
+     <img width="400" alt='Cold' src="https://i.pinimg.com/originals/de/eb/72/deeb72f330d622fcf337bc0967e9e54f.gif">
     </td>
     <td valign="top">
    
@@ -43,11 +43,4 @@
     </td>
   </tr>
 </table>
-
- <div>
-  
-<div>
  
-
-<p align="right">
-</p>
