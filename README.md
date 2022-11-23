@@ -34,8 +34,6 @@
  <img alt="" src="https://github-readme-stats.vercel.app/api?username=ecoknows&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
  
 <img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/10/dancing-gif-transparent-7.gif">
- <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecoknows&show_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  <br/>
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ecoknows&theme=react&hide_border=true&bg_color=0D1117" alt="ecoknows" /></p>
 
