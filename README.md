@@ -33,7 +33,7 @@
  <br/>
  <img alt="" src="https://github-readme-stats.vercel.app/api?username=ecoknows&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
  
-<img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/10/dancing-gif-transparent-7.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d1/b7/12/d1b712551a26c1a210896baa512eb10b.gif">
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ecoknows&theme=react&hide_border=true&bg_color=0D1117" alt="ecoknows" /></p>
 
