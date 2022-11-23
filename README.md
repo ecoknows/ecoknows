@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **some of open source projects**
 
-- 🤝 I’m looking for help with **some good**
+- 🤝 I’m looking for help with **finding good animes**
 
 - 💬 Ask me about **React, NodeJS and CodeIgniter/Laravel**
 
