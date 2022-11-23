@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Eco Villaraza</h1>
 <h3 align="center">A passionate software developer from Philippines</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761160a305c6f2ccdcfcf8513dc4ccfcb386fa9e7415&rid=giphy.gif&ct=g)">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761160a305c6f2ccdcfcf8513dc4ccfcb386fa9e7415&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ecoknows&label=Profile%20views&color=0e75b6&style=flat" alt="ecoknows" /> </p>
 
