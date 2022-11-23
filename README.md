@@ -37,7 +37,11 @@
   <br/>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ecoknows&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ecoknows" /></p>
+<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ecoknows&show_icons=true&locale=en&theme=tokyonight" alt="ecoknows" /></p>
 
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ecoknows&theme=tokyonight" alt="ecoknows" /></p>
+
+<br/>
