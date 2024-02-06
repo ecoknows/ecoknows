@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)]
+![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)
 <h1 align="center">Hi 👋, I'm Eco Villaraza</h1>
 <h3 align="center">A passionate software developer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/10/dancing-gif-transparent-7.gif">
