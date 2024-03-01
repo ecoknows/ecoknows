@@ -9,7 +9,7 @@
 
 <!-- - 🔭 I’m currently working on **Taters Enterprises Inc.** -->
 
-- 🌱 I’m currently mastering **Angular and Flutter**
+- 🌱 I’m currently mastering **Flutter and Angular**
 
 - 👯 I’m looking to collaborate on **some of open source projects**
 
