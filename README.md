@@ -9,13 +9,13 @@
 
 <!-- - 🔭 I’m currently working on **Taters Enterprises Inc.** -->
 
-- 🌱 I’m currently mastering **Flutter and Angular**
+- 🌱 I’m currently mastering **SwiftUI and UIKit**
 
 - 👯 I’m looking to collaborate on **some of open source projects**
 
 - 🤝 I’m looking for help with **finding good animes**
 
-- 💬 Ask me about **React, NodeJS and CodeIgniter/Laravel**
+- 💬 Ask me about **Swift, iOS Development and Flutter/React Native**
 
 - 📫 How to reach me **eco.villaraza19@gmail.com**
 
