@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)
-<h1 align="center">Hi 👋, I'm Eco Villaraza</h1>
-<h3 align="center">A passionate software developer from Philippines</h3>
+<h1 align="center">Hi 👋, I'm Eco</h1> 
+<h3 align="center">A passionate software engineer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/10/dancing-gif-transparent-7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ecoknows&label=Profile%20views&color=0e75b6&style=flat" alt="ecoknows" /> </p>
@@ -13,13 +13,15 @@
 
 - 👯 I’m looking to collaborate on **some of open source projects**
 
-- 🤝 I’m looking for help with **finding good animes**
+- 🤝 I’m looking for help with **finding good reads**
 
 - 💬 Ask me about **Swift, iOS Development and Flutter/React Native**
 
 - 📫 How to reach me **eco.villaraza19@gmail.com**
 
-- ⚡ Fun fact **I love learning new things!**
+- 🌐 Visit my website at **[jerico.dev](https://jerico.dev)**
+
+- ⚡ Fun fact **my cat judges my code. She’s not impressed...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
